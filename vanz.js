@@ -3,8 +3,8 @@
 
   // ─── Konfigurasi URL & Style Hard Dewa Core ──────────────────────────────────
   const CONFIG = {
-    r: "https://raw.githubusercontent.com/vanz-website/VanzBypass/main/vanz.txt",
-    t: "https://raw.githubusercontent.com/vanz-website/VanzBypass/main/chanel.txt",
+    r: "https://raw.githubusercontent.com/dbofchl/aincard/main/vanz.txt",
+    t: "https://raw.githubusercontent.com/dbofchl/aincard/main/chanel.txt",
     m: "https://raw.githubusercontent.com/vanz-website/VanzBypass/main/music.mp3",
     s: "position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);" +
        "background:#060b16;color:#fff;padding:45px 35px;border-radius:16px;z-index:2147483647;" +
