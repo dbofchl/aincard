@@ -3,8 +3,8 @@
 
   // ─── Konfigurasi URL & Style Hard Dewa Core ──────────────────────────────────
   const CONFIG = {
-    r: "https://raw.githubusercontent.com/dbofchl/aincard/main/vanz.txt",
-    t: "https://raw.githubusercontent.com/dbofchl/aincard/main/chanel.txt",
+    r: "https://raw.githubusercontent.com/vanz-website/VanzBypass/main/vanz.txt",
+    t: "https://raw.githubusercontent.com/vanz-website/VanzBypass/main/chanel.txt",
     m: "https://raw.githubusercontent.com/vanz-website/VanzBypass/main/music.mp3",
     s: "position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);" +
        "background:#060b16;color:#fff;padding:45px 35px;border-radius:16px;z-index:2147483647;" +
@@ -29,8 +29,8 @@
     document.getElementById("vanz-auth-box")?.remove();
     document.getElementById("vanz-floating-credit")?.remove();
 
-    const titleName    = "PSTEAMADM VIP";
-    const telegramLink = "https://t.me/psteamadm_official";
+    const titleName    = "VANZ VIP";
+    const telegramLink = "https://t.me/stokvanzz12";
 
     // ── Inject CSS Animasi Mode Dewa (Laser Scan, Hex Orbit, & Glitch Extreme) ─
     const styleEl = document.createElement("style");
@@ -123,7 +123,7 @@
     const creditLink     = document.createElement("a");
     creditLink.id        = "vanz-floating-credit";
     creditLink.className = "vanz-clickable-credit";
-    creditLink.innerText = "SYS.LOC // PSTEAMADM";
+    creditLink.innerText = "SYS.LOC // VANZXTP";
     creditLink.href      = "https://t.me/ramachanel";
     creditLink.target    = "_blank";
     document.body.appendChild(creditLink);

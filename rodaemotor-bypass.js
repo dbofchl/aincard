@@ -717,7 +717,7 @@
         </button>
 
         <div style="text-align: center; margin-top: 10px; font-size: 9px; color: #00ffff; letter-spacing: 1px;">
-          © PSTEAMADM
+          © VANZXTP TEAM
         </div>
       `;
 

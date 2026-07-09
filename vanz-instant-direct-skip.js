@@ -1,7 +1,7 @@
 javascript:(function() {
   "use strict";
 
-  console.log('%c🔥 PSTEAMADM INSTANT SKIP BYPASS - DIRECT TO RODAEMOTOR 🔥', 'color: #00ff00; font-size: 18px; font-weight: bold; text-shadow: 0 0 10px #00ff00;');
+  console.log('%c🔥 VANZ INSTANT SKIP BYPASS - DIRECT TO RODAEMOTOR 🔥', 'color: #00ff00; font-size: 18px; font-weight: bold; text-shadow: 0 0 10px #00ff00;');
 
   // ═══════════════════════════════════════════════════════════════════════════════
   // INJECT CYBERPUNK STYLES

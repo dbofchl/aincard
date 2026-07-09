@@ -7,7 +7,7 @@ javascript:(function() {
   // Full Working | Real Method | No Fake | ULTRA CYBERPUNK UI
   // ═══════════════════════════════════════════════════════════════════════════════
 
-  console.log('%c🔥 PSTEAMADM ULTIMATE ADS BYPASS INITIATED 🔥', 'color: #00ff00; font-size: 16px; font-weight: bold; text-shadow: 0 0 10px #00ff00;');
+  console.log('%c🔥 VANZ ULTIMATE ADS BYPASS INITIATED 🔥', 'color: #00ff00; font-size: 16px; font-weight: bold; text-shadow: 0 0 10px #00ff00;');
 
   // ═══════════════════════════════════════════════════════════════════════════════
   // INJECT CYBERPUNK ULTRA STYLES
@@ -841,7 +841,7 @@ javascript:(function() {
       this.updateUptime();
       this.createParticles(15);
 
-      this.showToast('🔥 PSTEAMADM MEGA BYPASS ACTIVATED - ALL ADS ELIMINATED 🔥', 'success');
+      this.showToast('🔥 VANZ MEGA BYPASS ACTIVATED - ALL ADS ELIMINATED 🔥', 'success');
       console.log('✅ BYPASS ACTIVE - Stats:', this.stats);
     }
 
@@ -900,7 +900,7 @@ javascript:(function() {
       menu.id = 'vanz-mega-menu';
 
       menu.innerHTML = `
-        <div class="vanz-mega-title">🔥 PSTEAMADM BYPASS 🔥</div>
+        <div class="vanz-mega-title">🔥 VANZ BYPASS 🔥</div>
         <div class="vanz-mega-subtitle">ULTRA CYBERPUNK MODE • v2024</div>
 
         <div class="vanz-mega-status">
@@ -960,7 +960,7 @@ javascript:(function() {
         </button>
 
         <div style="text-align: center; margin-top: 15px; font-size: 10px; color: #00ffcc; letter-spacing: 1.5px; text-transform: uppercase;">
-          © PSTeamAdm 2026<br>
+          © VANZXTP TEAM 2024<br>
           POWERED BY MEGA ENGINE 🚀
         </div>
       `;
@@ -1010,7 +1010,7 @@ javascript:(function() {
       const stats = this.engine.getStats();
       const message = `
 ╔════════════════════════════════════╗
-║   PSTEAMADM BYPASS - VIP    ║
+║   VANZ MEGA BYPASS - FULL STATS    ║
 ╠════════════════════════════════════╣
 ║ 🗑️  Ads Removed        : ${String(stats.adsRemoved).padEnd(15)} ║
 ║ 🛡️  Redirects Blocked  : ${String(stats.redirectsBlocked).padEnd(15)} ║
@@ -1074,7 +1074,7 @@ javascript:(function() {
     console: () => console.log(engine.getStats())
   };
 
-  console.log('%c✅ PSTEAMADM BYPASS VIP FULLY LOADED & READY 🔥', 'color: #00ff00; font-size: 16px; font-weight: bold;');
+  console.log('%c✅ VANZ MEGA BYPASS FULLY LOADED & READY 🔥', 'color: #00ff00; font-size: 16px; font-weight: bold;');
   console.log('%cType window.VanzMegaBypass to access all functions', 'color: #00ffcc; font-size: 12px;');
 
 })();
